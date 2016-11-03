@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationTest2</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="set_title">Set Title</string>
+    <string name="set_body_text">Set Body Text</string>
+    <string name="send_with_picture">Send With Picture</string>
+</resources>
